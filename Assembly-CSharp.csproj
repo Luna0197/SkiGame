@@ -12,7 +12,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{d1c90cbb-21b1-7fd3-627c-de1323534f9e}</ProjectGuid>
+    <ProjectGuid>{571ab7cd-99b5-06f3-ac11-2b8d0547d301}</ProjectGuid>
     <ProjectTypeGuids>{E097FAD1-6243-4DAD-9C02-E9B9EFC3FFC1};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -345,7 +345,7 @@
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.18f1/Unity.app/Contents/Managed/UnityEngine/UnityEditor.UnityConnectModule.dll</HintPath>
      </Reference>
      <Reference Include="DOTween">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Assets/Plugins/Demigiant/DOTween/DOTween.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.18f1/PlaybackEngines/AndroidPlayer/Unity.Android.Types.dll</HintPath>
@@ -720,63 +720,63 @@
      <HintPath>/Applications/Unity/Hub/Editor/2021.3.18f1/Unity.app/Contents/NetStandard/compat/2.1.0/shims/netfx/mscorlib.dll</HintPath>
      </Reference>
      <Reference Include="Cinemachine">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Cinemachine.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VSCode.Editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
      </Reference>
      <Reference Include="com.unity.cinemachine.editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/com.unity.cinemachine.editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Postprocessing.Runtime">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.Postprocessing.Runtime.dll</HintPath>
      </Reference>
      <Reference Include="Unity.ProBuilder.AssetIdRemapUtility">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.ProBuilder.AssetIdRemapUtility.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro.Editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.VisualStudio.Editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.VisualStudio.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.ProBuilder.AddOns.Editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.ProBuilder.AddOns.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline.Editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Timeline">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
      </Reference>
      <Reference Include="Unity.TextMeshPro">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
      </Reference>
      <Reference Include="Unity.ProBuilder">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.ProBuilder.dll</HintPath>
      </Reference>
      <Reference Include="Unity.ProBuilder.Editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.ProBuilder.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Postprocessing.Editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.Postprocessing.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEditor.UI">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Rider.Editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
      </Reference>
      <Reference Include="UnityEngine.UI">
-     <HintPath>/Users/luna/Desktop/animacijas/3DPROGRAMESANA/Ski Game/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+     <HintPath>/Users/luna/Documents/GitHub/SkiGame/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
      </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
-      <Project>{ac3f1602-1736-a38d-9747-a05bfaae6589}</Project>
+      <Project>{d4eee334-baf1-f7cd-901e-e0acf0d59cad}</Project>
       <Name>Assembly-CSharp-firstpass</Name>
     </ProjectReference>
   </ItemGroup>
