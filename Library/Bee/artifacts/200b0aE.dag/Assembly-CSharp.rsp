@@ -345,6 +345,7 @@
 "Assets/Scripts/movement.cs"
 "Assets/Scripts/MoveMover.cs"
 "Assets/Scripts/SnowmanThrow.cs"
+"Assets/Scripts/Stopwatch.cs"
 -langversion:9.0
 
 /deterministic

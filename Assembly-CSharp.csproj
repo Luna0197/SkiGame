@@ -41,6 +41,7 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+     <Compile Include="Assets/Scripts/Stopwatch.cs" />
      <Compile Include="Assets/Scripts/MoveMover.cs" />
      <Compile Include="Assets/Scripts/movement.cs" />
      <Compile Include="Assets/Scripts/SnowmanThrow.cs" />
