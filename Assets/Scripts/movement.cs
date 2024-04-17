@@ -13,10 +13,12 @@ public class movement : MonoBehaviour
     
    
       
-    float horizontalInput = Input.GetAxis("Horizontal"); 
+    
     
     void Update()
+
     {
+        float horizontalInput = Input.GetAxis("Horizontal");
         transform.Translate(moveVector * moveSpeed * Time.deltaTime);
         movePlayer();
         moveSpeed = moveSpeed += speedIncrease * 0.5f;
