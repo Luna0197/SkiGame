@@ -8,11 +8,9 @@ public class movement : MonoBehaviour
 {
     public float moveSpeed;
     public Vector3 moveVector;
-    private float speed = 2.0f;
-    public GameObject character;
-    public Rigidbody rb;
     public float rotationSpeed;
-   
+    public float speedIncrease;
+    
    
       
     float horizontalInput = Input.GetAxis("Horizontal"); 
@@ -20,24 +18,22 @@ public class movement : MonoBehaviour
     void Update()
     {
         transform.Translate(moveVector * moveSpeed * Time.deltaTime);
-
         movePlayer();
-        
-
+        moveSpeed = moveSpeed += speedIncrease * 0.5f;
     }
 
     private void movePlayer()
     {
         if (Input.GetKey(KeyCode.A))
         {
-           transform.Translate(Vector3.right * Time.deltaTime * moveSpeed);
+           transform.Translate(Vector3.right * Time.deltaTime);
            transform.Rotate(Vector3.up * rotationSpeed);
            
         }
        
         if (Input.GetKey(KeyCode.D))
         {
-            transform.Translate(Vector3.left * Time.deltaTime * moveSpeed);
+            transform.Translate(Vector3.left * Time.deltaTime);
             transform.Rotate(Vector3.down * rotationSpeed);
         }
 
