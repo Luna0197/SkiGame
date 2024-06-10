@@ -9,9 +9,8 @@ using TMPro;
 public class Stopwatch : MonoBehaviour
 {
     bool stopwatchActive = false;
-    public static float currentTime;
+    float currentTime;
     public Text currentTimeText;
-   
 
     void Start()
     {
@@ -40,10 +39,6 @@ public class Stopwatch : MonoBehaviour
     public void StopStopwatch()
     {
         stopwatchActive = false;
-    }
-    public float GetCurrentTime()
-    {
-        return currentTime;
     }
 
 }
