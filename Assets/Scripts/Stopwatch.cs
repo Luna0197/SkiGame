@@ -9,7 +9,7 @@ using TMPro;
 public class Stopwatch : MonoBehaviour
 {
     bool stopwatchActive = false;
-    float currentTime;
+    public float currentTime;
     public Text currentTimeText;
 
     void Start()
