@@ -32,6 +32,8 @@ public class movement : MonoBehaviour
            transform.Rotate(Vector3.up * rotationSpeed);
            
         }
+
+       
        
         if (Input.GetKey(KeyCode.D))
         {
